@@ -1,4 +1,4 @@
 baseURL = "http://edcismybrother.github.io/"
 languageCode = "utf-8"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "皮智文的小宝库"
+theme = "hugo-bootstrap"
